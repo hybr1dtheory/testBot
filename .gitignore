@@ -1,0 +1,6 @@
+config.py
+meters.json
+users.json
+.idea/
+test-bot-venv/
+*.pyc
